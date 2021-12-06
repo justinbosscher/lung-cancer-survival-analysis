@@ -81,7 +81,7 @@ The objective of the project is to estimate the time-to-death for patients diagn
 
 ### Two related probabilities are used to analyze survival data:
 1. Survival Function (S)
-    * Defined as the probability that a subject wurvives from the diagnosis of a disease to a specified future time, t
+    * Defined as the probability that a subject survives from the diagnosis of a disease to a specified future time, t
     * Focuses on the survival of a subject
     * EG: S(200) = 0.7 means that after 200 days, a subject's probability of survival is 0.7
     * Kaplan-Meier Estimator is used to find the survival probability of a subject
